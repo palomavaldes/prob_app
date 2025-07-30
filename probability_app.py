@@ -5,7 +5,7 @@ from scipy import stats
 import math
 
 # Set page config
-st.set_page_config(page_title="Probability Distributions", layout="wide")
+st.set_page_config(page_title="ProbLearn", layout="wide")
 
 # CSS 
 st.markdown("""
